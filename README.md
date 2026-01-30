@@ -11,3 +11,5 @@ Python program that utilizes Pygame as well as classes and methods to organize c
 ```
 python3 main.py
 ```
+
+[asteroid](./images/asteroid.png)
